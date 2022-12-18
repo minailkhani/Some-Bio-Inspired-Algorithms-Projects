@@ -1,0 +1,2 @@
+Implement an MLP and train it using the training dataset– which consists of several lines with each line corresponding to a sample; each sample is a point in XY plane with a label equal to either
+zero or one. For this homework, we want to make our network over-fit (?); which is not something we usually want. The network should have an accuracy of 98%. Needless to say,without useing the test data to train the network.
